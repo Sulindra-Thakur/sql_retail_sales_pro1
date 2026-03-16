@@ -78,4 +78,11 @@ WHERE
    OR total_sale IS NULL;
 ```
 
+### 3. Data Analysis & Findings
+
+The following SQL queries were developed to answer specific business questions.
+
+Q.1. write a sql query to retrive all column for sale made on '2022-11-05'
+
+
 
