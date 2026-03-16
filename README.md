@@ -45,7 +45,7 @@ create table retail_sale(
 - **Customer Count:** Find out how many unique customer are in the dataset.
 - **Null Value Checks:** Check for any null values in the dataset and delete records with missing data.
 
-``sql
+```sql
 select count(*) from retail_sale;
 select count(distinct customer_id) from retail_sale;
 select distinct category from retail_sale;
