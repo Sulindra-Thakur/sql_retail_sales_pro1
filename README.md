@@ -82,7 +82,31 @@ WHERE
 
 The following SQL queries were developed to answer specific business questions.
 
-Q.1. write a sql query to retrive all column for sale made on '2022-11-05'
+Q.1 write a sql query to retrive all column for sale made on '2022-11-05'
+Q.2 write a SQL query to retrive all transactions where the category is 'Clothing' and the quantity sold 4
+is more than 4 in the month of nov-2022.
+Q.3 write a sql query to calculate the total sales(total_sale) for each category.
+Q.4 Write a SQL query to find the average age of cutomer who purchased item from the beauty category.
+Q.5 write a SQl query to find all transactions where the total_sale is greater then 1000.
+Q.6 write a SQl query to find the total number of transactions(transaction_id) made by each gender in each category.
+Q.7 write a SQL query to calculate the average sale for each month, find out best selling month in each year.
+Q.8 write  a SQl query to find the top 5 customer based on the highest total sale
+Q.9 write a SQL query to find the number of unique customer who purchased item from each category.
+Q. 10 write a SQL query to create each shift and number of order(example morning <=12, aftenoon between 12 & 17, evening greater then 17).
+
+## Findings
+-- **Customer Demographices:** The dataset includes customers from various age groups, with sales distributed across different category such as Clothing and Beauty.
+-- **High-value Transactions:** Several transactions had a total sale amount greater then 1000, indicating premium purchases.
+-- **Customer Insights:** The analysis indentifies the top-spending customers and the most popular product categories.
+
+## Reports 
+-- **Sales Summary:** A detailed report summarizing total sales, customer demographics, and category performance.
+-- **Trends Anlaysis:** Insights into sales trends across different months and shifts.
+-- **Customer Insights:** Reports on top customers and unique customer count per category
+
+## Conclusion
+
+This project serves as a comprehensive introduction to SQL for data analysis, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The finding from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance
 
 
 
