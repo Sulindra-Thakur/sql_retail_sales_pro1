@@ -95,14 +95,14 @@ Q.9 write a SQL query to find the number of unique customer who purchased item f
 Q. 10 write a SQL query to create each shift and number of order(example morning <=12, aftenoon between 12 & 17, evening greater then 17).
 
 ## Findings
--- **Customer Demographices:** The dataset includes customers from various age groups, with sales distributed across different category such as Clothing and Beauty.
--- **High-value Transactions:** Several transactions had a total sale amount greater then 1000, indicating premium purchases.
--- **Customer Insights:** The analysis indentifies the top-spending customers and the most popular product categories.
+- **Customer Demographices:** The dataset includes customers from various age groups, with sales distributed across different category such as Clothing and Beauty.
+- **High-value Transactions:** Several transactions had a total sale amount greater then 1000, indicating premium purchases.
+- **Customer Insights:** The analysis indentifies the top-spending customers and the most popular product categories.
 
 ## Reports 
--- **Sales Summary:** A detailed report summarizing total sales, customer demographics, and category performance.
--- **Trends Anlaysis:** Insights into sales trends across different months and shifts.
--- **Customer Insights:** Reports on top customers and unique customer count per category
+- **Sales Summary:** A detailed report summarizing total sales, customer demographics, and category performance.
+- **Trends Anlaysis:** Insights into sales trends across different months and shifts.
+- **Customer Insights:** Reports on top customers and unique customer count per category
 
 ## Conclusion
 
